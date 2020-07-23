@@ -20,8 +20,11 @@ Modelo para novos projetos desenvolvido no bootcamp fullstack da IGTI.
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
+- **[HTML](https://www.w3schools.com/html/)**
+- **[JavaScript](https://www.w3schools.com/js/)**
+- **[CSS](https://www.w3schools.com/Css/)**
 - **[NodeJS](https://nodejs.org/en/)**
-
+- **[ReactJS](https://reactjs.org/)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
